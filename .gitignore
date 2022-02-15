@@ -1,0 +1,7 @@
+/에셋TEST/Saved
+/에셋TEST/Intermediate
+/에셋TEST/.vs
+/에셋TEST/Build
+/에셋TEST/Plugins
+*.sln
+*_BuiltData.uasset
